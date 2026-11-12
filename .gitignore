@@ -1,0 +1,17 @@
+# Arquivos gerados na compilação
+**/output/
+*.exe
+*.o
+*.obj
+
+# Arquivos temporários de editores e do sistema
+~$*
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Material interno fica no repositorio privado
+/administrativo/
+/estudos/
+/bibliografia/
+/artefatos-locais/
